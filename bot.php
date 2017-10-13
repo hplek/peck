@@ -39,7 +39,7 @@ if (!is_null($events['events'])) {
 					'ans' => 'ดรั๊กนุชก็จัง'
 				],
 				5 => [
-					'keywords' => 'นม',
+					'keywords' => 'นมช็อค',
 					'ans' => 'พริ๊งหลอ อยากดูรูปเฮียนุชไปเสิร์จกูเกิ้ลดูเองก่อนนะคร๊อป'
 				],
 				6 => [
@@ -47,7 +47,7 @@ if (!is_null($events['events'])) {
 					'ans' => 'พริ๊งหลอ รูปเฮียยังไม่พร้อมนุชหากินเองไปก่อนนะคร๊อป'
 				],
 				7 => [
-					'keywords' => '55',
+					'keywords' => '5555',
 					'ans' => '555'
 				],
 				8 => [
@@ -59,7 +59,7 @@ if (!is_null($events['events'])) {
 					'ans' => 'กอดกัน จุ๊ฟกัน'
 				],
 				10 => [
-					'keywords' => 'โหวต',
+					'keywords' => 'โหวตเฮีย',
 					'ans' => 'ขอบคุณที่โหวตเฮียนะคร๊อป http://www.mtvema.com/en-asia/artists/9zo3mg/palitchoke-ayanaputra'
 				],
 				11 => [
@@ -87,11 +87,11 @@ if (!is_null($events['events'])) {
 					'ans' => 'ต้องให้ได้วันละหมื่นตัวนะคร๊อป'
 				],
 				17 => [
-					'keywords' => 'บอท',
+					'keywords' => 'บอทเฮีย',
 					'ans' => 'ใช่ครับ เฮียเป็นบอท'
 				],
 				18 => [
-					'keywords' => 'เฮีย',
+					'keywords' => 'เฮียมา',
 					'ans' => 'ใครเรียกเฮียคร๊อป'
 				],
 				19 => [
@@ -99,7 +99,7 @@ if (!is_null($events['events'])) {
 					'ans' => 'อ้วนแล้วไง กอดอุ่นแล้วกัน'
 				],
 				20 => [
-					'keywords' => 'ไป',
+					'keywords' => 'ไปไหนกัน',
 					'ans' => 'ไปไหนก็ได้ โตแล้ว'
 				],
 				21 => [
@@ -243,7 +243,7 @@ if (!is_null($events['events'])) {
 					'ans' => 'เก้วกาดหลออออออออ'
 				],
 				57 => [
-					'keywords' => 'vote',
+					'keywords' => 'Vote',
 					'ans' => 'ขอบคุณที่โหวตเฮียนะคร๊อป http://www.mtvema.com/en-asia/artists/9zo3mg/palitchoke-ayanaputra'
 				],
 				58 => [
