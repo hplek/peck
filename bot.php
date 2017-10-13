@@ -195,8 +195,8 @@ if (!is_null($events['events'])) {
 					'ans' => 'อ้าวเฮ้ย ไม่เหมือนที่คุยกันไว้นี่หน่า'
 				],
 				45 => [
-					'keywords' => 'เบื่อ',
-					'ans' => 'อย่าเบื่อนะนุชชช'
+					'keywords' => 'แฟนมีท',
+					'ans' => 'นุชอย่านกแฟนมีทนะคร๊อป'
 				],
 				46 => [
 					'keywords' => 'สไลด์',
@@ -220,7 +220,7 @@ if (!is_null($events['events'])) {
 				],
 				51 => [
 					'keywords' => 'ที่ไหน',
-					'ans' => 'อยู่ที่ในใจเฮีย'
+					'ans' => 'ในใจเฮีย'
 				],
 				52 => [
 					'keywords' => 'เมื่อไหร่',
@@ -239,7 +239,7 @@ if (!is_null($events['events'])) {
 					'ans' => 'เหนื่อยก็มากอดเฮียนะคร๊อป จุ๊ฟ!'
 				],
 				56 => [
-					'keywords' => 'โว๊ย',
+					'keywords' => 'โวย',
 					'ans' => 'เก้วกาดหลออออออออ'
 				],
 				57 => [
@@ -251,8 +251,8 @@ if (!is_null($events['events'])) {
 					'ans' => 'จิ๋มเลยคร๊อป http://www.mtvema.com/en-asia/artists/9zo3mg/palitchoke-ayanaputra'
 					],
 				59 => [
-					'keywords' => 'ไล่',
-					'ans' => 'อย่าไล่เฮียเลยนะคร๊อป'
+					'keywords' => 'แท่งไฟ',
+					'ans' => 'แพงแล้วยังไม่สตรองอีก :('
 				],
 				60 => [
 					'keywords' => 'ป่อง',
@@ -268,7 +268,7 @@ if (!is_null($events['events'])) {
 				],
 				63 => [
 					'keywords' => 'เคียวโฮ',
-					'ans' => 'เคี๊ยวหงึบ https://www.youtube.com/watch?v=Z-Sk1lwGwfg'
+					'ans' => 'เคี้ยวหงึบ https://www.youtube.com/watch?v=Z-Sk1lwGwfg'
 				],
 				64 => [
 					'keywords' => 'แหม',
