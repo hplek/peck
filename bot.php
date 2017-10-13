@@ -271,8 +271,8 @@ if (!is_null($events['events'])) {
 					'ans' => 'เคี๊ยวหนึบ https://www.youtube.com/watch?v=Z-Sk1lwGwfg'
 				],
 				64 => [
-					'keywords' => 'ais',
-					'ans' => '4G แอ๊ดแวนนนนนนนนซ์'
+					'keywords' => 'แหม',
+					'ans' => 'แหมมมมมมมมมมมมมมม ให้ถึงดาว 702'
 				],
 				64 => [
 					'keywords' => 'AIS',
