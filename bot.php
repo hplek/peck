@@ -71,8 +71,8 @@ if (!is_null($events['events'])) {
 					'ans' => 'เงาะๆ กัน https://www.youtube.com/watch?v=uTrYnvMSuBE'
 				],
 				13 => [
-					'keywords' => 'ตุ่น',
-					'ans' => 'ต้องให้ได้วันละหมื่นตัวนะคร๊อป'	
+					'keywords' => 'mtv',
+					'ans' => 'จิ๋มม่วงเลยคร๊อป http://www.mtvema.com/en-asia/artists/9zo3mg/palitchoke-ayanaputra'	
 				],
 				14 => [
 					'keywords' => 'ม่วง',
@@ -201,10 +201,10 @@ if (!is_null($events['events'])) {
 				46 => [
 					'keywords' => 'สไลด์',
 					'ans' => 'สไลด์ได้ แต่สไลด์กลับด้วยนะคร๊อป'
-					],
+				],
 				47 => [
 					'keywords' => 'บีช',
-					'ans' => 'นุชสายบีชน่ารักทุกคน'
+					'ans' => 'นุชสายบีชน่ารักทุกคนเลยคร๊อป'
 				],
 				48 => [
 					'keywords' => 'เป้า',
@@ -213,10 +213,10 @@ if (!is_null($events['events'])) {
 				49 => [
 					'keywords' => 'ใคร',
 					'ans' => 'เฮียเองคร๊อป'
-									],
+				],
 				50 => [
 					'keywords' => 'ทำไม',
-					'ans' => 'นุชถามเฮีย แล้วเฮียจะถามใคร'
+					'ans' => 'นุชถามเฮีย แล้วเฮียจะถามใคร?'
 				],
 				51 => [
 					'keywords' => 'ที่ไหน',
@@ -225,6 +225,30 @@ if (!is_null($events['events'])) {
 				52 => [
 					'keywords' => 'เมื่อไหร่',
 					'ans' => 'พร้อมเสมอถ้านุชต้องการ'
+				],
+				53 => [
+					'keywords' => 'ขอบคุณ',
+					'ans' => 'ขอบคุณคร๊อป'
+				],
+				54 => [
+					'keywords' => 'ตอบ',
+					'ans' => 'ตอบว่าดรั๊กได้หรือเปล่า'
+				],
+				55 => [
+					'keywords' => 'เหนื่อย',
+					'ans' => 'เหนื่อยก็มากอดเฮียนะคร๊อป จุ๊ฟ!'
+				],
+				56 => [
+					'keywords' => 'Vote',
+					'ans' => 'ขอบคุณที่โหวตเฮียนะคร๊อป http://www.mtvema.com/en-asia/artists/9zo3mg/palitchoke-ayanaputra'
+				],
+				57 => [
+					'keywords' => 'vote',
+					'ans' => 'ขอบคุณที่โหวตเฮียนะคร๊อป http://www.mtvema.com/en-asia/artists/9zo3mg/palitchoke-ayanaputra'
+				],
+				58 => [
+					'keywords' => 'จิ้ม',
+					'ans' => 'จิ๋มเลยคร๊อป http://www.mtvema.com/en-asia/artists/9zo3mg/palitchoke-ayanaputra'
 				]
 								
 			];
