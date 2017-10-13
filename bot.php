@@ -119,7 +119,7 @@ if (!is_null($events['events'])) {
 					'ans' => 'เรียกเฮีย คิดถึงเฮียหลอ'
 				],
 				25 => [
-					'keywords' => 'ลิ้งค์',
+					'keywords' => 'ขอลิงค์',
 					'ans' => 'https://docs.google.com/forms/d/e/1FAIpQLSci0rPKKHLqf9pEktWZaGIcK-KJI0wKyWWzfI6X84lrWMVvgw/viewform'
 				],
 				26 => [
