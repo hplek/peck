@@ -249,6 +249,34 @@ if (!is_null($events['events'])) {
 				58 => [
 					'keywords' => 'จิ้ม',
 					'ans' => 'จิ๋มเลยคร๊อป http://www.mtvema.com/en-asia/artists/9zo3mg/palitchoke-ayanaputra'
+					],
+				59 => [
+					'keywords' => 'ไล่',
+					'ans' => 'อย่าไล่เฮียเลยนะคร๊อป'
+				],
+				60 => [
+					'keywords' => 'ป่อง',
+					'ans' => 'นมป่องตรูดหย่ายยยย'
+				],
+				61 => [
+					'keywords' => 'เตย',
+					'ans' => 'นมเตยย๊านนยานนนน'
+				],
+				62 => [
+					'keywords' => 'หลุม',
+					'ans' => 'ลงหลุมไปเลยครัช'
+				],
+				63 => [
+					'keywords' => 'เคียวโฮ',
+					'ans' => 'เคี๊ยวหนึบ https://www.youtube.com/watch?v=Z-Sk1lwGwfg'
+				],
+				64 => [
+					'keywords' => 'ais',
+					'ans' => '4G แอ๊ดแวนนนนนนนนซ์'
+				],
+				64 => [
+					'keywords' => 'AIS',
+					'ans' => '4G แอ๊ดแวนนนนนนซ์'
 				]
 								
 			];
