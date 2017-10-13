@@ -71,8 +71,8 @@ if (!is_null($events['events'])) {
 					'ans' => 'เงาะๆ กัน https://www.youtube.com/watch?v=uTrYnvMSuBE'
 				],
 				13 => [
-					'keywords' => 'mtv',
-					'ans' => 'จิ๋มม่วงเลยคร๊อป http://www.mtvema.com/en-asia/artists/9zo3mg/palitchoke-ayanaputra'	
+					'keywords' => 'หล่อ',
+					'ans' => 'เฮียเอง หล่อมากเทพบุตร :P'	
 				],
 				14 => [
 					'keywords' => 'ม่วง',
