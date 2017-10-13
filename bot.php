@@ -239,8 +239,8 @@ if (!is_null($events['events'])) {
 					'ans' => 'เหนื่อยก็มากอดเฮียนะคร๊อป จุ๊ฟ!'
 				],
 				56 => [
-					'keywords' => 'Vote',
-					'ans' => 'ขอบคุณที่โหวตเฮียนะคร๊อป http://www.mtvema.com/en-asia/artists/9zo3mg/palitchoke-ayanaputra'
+					'keywords' => 'โว๊ย',
+					'ans' => 'เก้วกาดหลออออออออ'
 				],
 				57 => [
 					'keywords' => 'vote',
