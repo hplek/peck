@@ -19,8 +19,8 @@ if (!is_null($events['events'])) {
 			
 			$question = [
 				0 => [
-					'keywords' => 'ดีจ้า',
-					'ans' => 'สวัสดีคร๊อป'
+					'keywords' => 'นิ้ม',
+					'ans' => 'ดีใจที่นุชนิ้มนะ :)'
 				],
 				1 => [
 					'keywords' => 'ไฮ',
