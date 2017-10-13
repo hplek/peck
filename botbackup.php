@@ -277,7 +277,11 @@ if (!is_null($events['events'])) {
 				65 => [
 					'keywords' => 'AIS',
 					'ans' => '4G แอ๊ดแวนนนนนนซ์'		
-			]
+				
+				]
+								
+			];
+				
 			
 			$found = 0;
 			if($join == 0){
