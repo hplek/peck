@@ -120,7 +120,7 @@ if (!is_null($events['events'])) {
 				],
 				25 => [
 					'keywords' => 'ขอลิงค์',
-					'ans' => 'https://docs.google.com/forms/d/e/1FAIpQLSci0rPKKHLqf9pEktWZaGIcK-KJI0wKyWWzfI6X84lrWMVvgw/viewform'
+					'ans' => 'สำรวจยอดตีตุ่น 13/10/17 https://docs.google.com/forms/d/e/1FAIpQLSci0rPKKHLqf9pEktWZaGIcK-KJI0wKyWWzfI6X84lrWMVvgw/viewform'
 				],
 				26 => [
 					'keywords' => 'อะไร',
