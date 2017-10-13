@@ -119,8 +119,8 @@ if (!is_null($events['events'])) {
 					'ans' => 'เรียกเฮีย คิดถึงเฮียหลอ'
 				],
 				25 => [
-					'keywords' => 'พัน',
-					'ans' => 'โหวตได้กี่พันเฮียก็รักนะคร๊อป'
+					'keywords' => 'ลิ้งค์',
+					'ans' => 'https://docs.google.com/forms/d/e/1FAIpQLSci0rPKKHLqf9pEktWZaGIcK-KJI0wKyWWzfI6X84lrWMVvgw/viewform'
 				],
 				26 => [
 					'keywords' => 'อะไร',
